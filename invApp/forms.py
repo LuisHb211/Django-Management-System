@@ -1,7 +1,7 @@
 from django import forms
 from .models import Product
 
-class ProductForms(forms.ModelForm):
+class ProductForm(forms.ModelForm):
   class Meta:
     # This class is goig to earn all the atr from the Product class in models.py
     model = Product
