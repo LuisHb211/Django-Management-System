@@ -16,7 +16,7 @@ To get this project running on your local machine, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LuisHb211/AppFinal.git
+git clone https://github.com/LuisHb211/Django-Management-System.git
 ```
 2. Navigate to the project directory:
 ```bash
