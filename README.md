@@ -20,7 +20,7 @@ git clone https://github.com/LuisHb211/Django-Management-System.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd AppFinal
+cd Django-Management-System
 ```
 3.  Create the virtual environment:
 ```bash
