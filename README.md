@@ -4,9 +4,9 @@ This project is a comprehensive inventory management system built with the Djang
 
 It is worth remembering that this project is not yet finished.
 
-![Image](Screenshot_1.png)/
-![Image](Screenshot_2.png)/
-![Image](Screenshot_3.png)/
+![Image](Screenshot_1.png)
+![Image](Screenshot_2.png)
+![Image](Screenshot_3.png)
 
 ### Features
 
