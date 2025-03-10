@@ -38,7 +38,9 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt 
 ```
-6. Create the database:
+6. Create .env based on .env-example and copy the result in generate_secret_key.py to SECRET_KEY
+
+7. Create the database:
 ```bash
 python manage.py makemigrations
 ```
